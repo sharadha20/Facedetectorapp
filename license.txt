@@ -1,0 +1,2 @@
+The app was developed to practive flutter app developmment.
+The credit for this app goes to the instructor in the udemy course(Flutter artificial Intelligence) I enrolled.
